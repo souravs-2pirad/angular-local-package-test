@@ -1,0 +1,20 @@
+export enum OccupiedAmStages
+{
+	"Awaiting Assignment" = "Awaiting Assignment",
+	"Team Assigned" = "Team Assigned",
+	"Technical Team Not Confirmed" = "Technical Team Not Confirmed",
+	"BD Intro Ops" = "BD Intro Ops",
+	"Operations Intro Sent" = "Operations Intro Sent",
+	"Audit Scheduled" = "Audit Scheduled",
+	"Audit Complete" = "Audit Complete",
+	"Tech Survey Complete" = "Tech Survey Complete",
+	"Interims in preparation" = "Interims in preparation",
+	"Building Report(s) Complete" = "Building Report(s) Complete",
+	"Under Peer Review" = "Under Peer Review",
+	"Building Report with CS" = "Building Report with CS",
+	"Client Adjustments - Waiting on Client" = "Client Adjustments - Waiting on Client",
+	"Building Audit Report Improvements - with AM" = "Building Audit Report Improvements - with AM",
+	"Building Report(s) Updated" = "Building Report(s) Updated",
+	"Approved for Final Deliverables" = "Approved for Final Deliverables",
+	"Certification Package Created" = "Certification Package Created",
+}

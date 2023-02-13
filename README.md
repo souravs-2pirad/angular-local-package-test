@@ -1,5 +1,5 @@
 # angular-local-package-test
-angular-local-package-test 1
+angular-local-package-test 2
 
 When a local package is created (in this case arca-shared) and we want to use it inside Angular.
 We need to do 2 steps : 
